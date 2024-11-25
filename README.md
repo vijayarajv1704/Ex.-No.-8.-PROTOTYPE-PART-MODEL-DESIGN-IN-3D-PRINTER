@@ -2,7 +2,7 @@
 
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
-
+DATE:20.09.24
 ## REQUIREMENTS:
 ### ●	3D Printer machine.
 ### ●	CURA 4.0 Software.
