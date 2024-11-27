@@ -1,8 +1,9 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No.3 : PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
+### DATE: 20/11/2024
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
-DATE:20.09.24
+
 ## REQUIREMENTS:
 ### ●	3D Printer machine.
 ### ●	CURA 4.0 Software.
@@ -43,13 +44,15 @@ DATE:20.09.24
 ###   5.	Wait until the nozzle & bed plate comes into the required temperature.
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
+<br>
+
 
 ## Output:
+![WhatsApp Image 2024-11-23 at 11 35 19_185886f8](https://github.com/user-attachments/assets/a013a7b8-c35a-4744-a5aa-883f71d1b664)
 
-![image](https://github.com/VARSHINI22009118/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119401150/bff8325f-0682-4ec5-9252-593bbcf0d620)
 
-### Name:Vijayaraj V
-### Register Number: 212222230174
+### Name:VIjayaraj V
+### Register Number:212222230174
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
